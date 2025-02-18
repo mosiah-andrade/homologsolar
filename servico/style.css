@@ -9,7 +9,8 @@ body{
 }
 header{
     width: 100vw;
-    height: 20vh;
+    height: 200vh;
+    background: #001f3dff;
     border-bottom: 1px solid #fca212ff;
     display: flex;
     flex-direction: column;
