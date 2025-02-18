@@ -10,7 +10,6 @@ body{
 header{
     width: 100vw;
     height: 20vh;
-    background: #001f3dff;
     border-bottom: 1px solid #fca212ff;
     display: flex;
     flex-direction: column;
