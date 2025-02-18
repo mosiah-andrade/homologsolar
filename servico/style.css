@@ -9,7 +9,7 @@ body{
 }
 header{
     width: 100vw;
-    height: 200vh;
+    height: 20vh;
     background: #001f3dff;
     border-bottom: 1px solid #fca212ff;
     display: flex;
